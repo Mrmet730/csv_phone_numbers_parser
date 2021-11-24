@@ -1,7 +1,7 @@
 # csv_phone_numbers_parser
 Parser di file csv con elenchi di numeri telefonici, repository creata per scopi lavorativi
 
-#FUNZIONAMENTO
+# FUNZIONAMENTO
 Il funzionamento del parser è stato appositamente pensato per essere il più possibile user-friendly, è quindi possibile interagire attraverso i 2 semplici form messi a disposizione dell'utente: uno per l'inserimento di un numero telefonico da parsare e inserire in DB e un'altro per scegliere un file csv da usare per il parsing di più numeri telefonici.
 
 Nel file "global.php" vengono definite le variabili globali "DB_HOST", "DB_USER" ecc.
